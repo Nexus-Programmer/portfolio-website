@@ -8,5 +8,5 @@
 > - Make sure to read the comments and change the things instructed in them in the ``index.html`` file to optimize it for your needs.
 > - **You need to add your profile picture for the website.**
 
-## The website in one looks like:
+## The website in one image looks like:
 ![Image of the website](https://github.com/user-attachments/assets/c45b168e-edb2-4e80-b646-8c06307dae68)
