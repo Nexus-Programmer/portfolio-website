@@ -1,10 +1,10 @@
 
 # Portfolio Website
 
-### This is a portfolio website template made using HTML, CSS and JS. Made by Nexus in 2025
+## This is a portfolio website template made using HTML, CSS and JS. Made by Nexus in 2025
 
 
-## The website in one image looks like:
+### The website in one image looks like:
 ![Image of the website](https://github.com/user-attachments/assets/c45b168e-edb2-4e80-b646-8c06307dae68)
 
 > Note:
