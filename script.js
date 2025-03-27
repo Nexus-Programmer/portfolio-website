@@ -1,3 +1,4 @@
+// If you know HTML, CSS and JavaScript well then optimize this JavaScript file and add better functions. (Recommended :D)
 document.addEventListener('DOMContentLoaded', function() {
     const links = document.querySelectorAll('nav ul li a');
 
