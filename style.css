@@ -1,5 +1,7 @@
+/* If you are a programmer who knows HTML5 and CSS3 you can optimize the code for your needs. (Recommended :D)*/
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial', sans-serif; /* You can change the font from here */
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
@@ -8,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #4CAF50; /* Change the header backgroumd color and text color from here */
     color: white;
     padding: 20px 0;
     text-align: center;
